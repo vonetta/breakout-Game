@@ -1,0 +1,9 @@
+C:\Users\steve\Documents\udemy\JS breaking game\JS breaking game\bin\JS breaking game.dll.config
+C:\Users\steve\Documents\udemy\JS breaking game\JS breaking game\bin\JS breaking game.dll
+C:\Users\steve\Documents\udemy\JS breaking game\JS breaking game\bin\JS breaking game.pdb
+C:\Users\steve\Documents\udemy\JS breaking game\JS breaking game\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\steve\Documents\udemy\JS breaking game\JS breaking game\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\steve\Documents\udemy\JS breaking game\JS breaking game\obj\Debug\JS breaking game.csprojResolveAssemblyReference.cache
+C:\Users\steve\Documents\udemy\JS breaking game\JS breaking game\obj\Debug\JS breaking game.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\udemy\JS breaking game\JS breaking game\obj\Debug\JS breaking game.dll
+C:\Users\steve\Documents\udemy\JS breaking game\JS breaking game\obj\Debug\JS breaking game.pdb
